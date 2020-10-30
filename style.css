@@ -1,6 +1,6 @@
 body {
 	font-family: 'Turret Road', cursive;
-	color: blue;
+	color: red;
 }
 
 .container {
@@ -11,7 +11,6 @@ body {
 h1, h4 {
 	font-weight: 900;
 	text-align: center;
-	color: green;
 }
 
 h5 {
